@@ -2,12 +2,13 @@
  A CLEWs-Based Approach to the Climate-Water-Energy-Food Nexus in Zambia
 GeoCLEWs_ZM - Enhancing Policy Coherence for Sustainable Development in Zambia
 
-##Introduction
+## Introduction
 
 GeoCLEWs_ZM offers a comprehensive set of features to process high-resolution land and water data for Climate, Land, Energy, and Water Systems (CLEWs) modeling. This script (adapted from [Yalda Saedi](https://github.com/YSaedi)) automates data collection from GAEZ v4 and FAOSTAT, processing agro-climatic potential yield, crop water deficit, precipitation, and land cover. Outputs can be combined with electricity information for detailed CLEWs modeling, providing an efficient solution without complex spatial processing. GeoCLEWs_ZM has been successfully tested on Windows machines. Please follow the instructions below to set up and use GeoCLEWs_ZM effectively.
 
-##Creating and Activating the Environment
-Ensure all necessary Python packages and dependencies are installed using the provided 'environment.yml' file:
+## Creating and Activating the Environment
+Ensure all necessary Python packages and dependencies are installed using the provided 'environment.yml' file: 
+
 ```bash
 conda env create -f environment.yml
 conda activate GeoCLEWs
