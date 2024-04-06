@@ -12,9 +12,9 @@ Ensure all necessary Python packages and dependencies are installed using the pr
 ```bash
 conda env create -f environment.yml
 conda activate GeoCLEWs
-```bash
+```
 
-##Download Files and Data
+## Download Files and Data
 
 1. **CLEWs-ZMB-2024 Folder**: Download the 'CLEWs-ZMB-2024' folder, which includes:
 
