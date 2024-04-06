@@ -18,10 +18,10 @@ conda activate GeoCLEWs
 
 1. **CLEWs-ZMB-2024 Folder**: Download the 'CLEWs-ZMB-2024' folder, which includes:
 
-*  **GeoCLEWs.ipynb**: Jupyter Notebook code for running GeoCLEWs.
-*  GAEZ and FAOSTAT resources in CSV format.
+     * **GeoCLEWs.ipynb**: Jupyter Notebook code for running GeoCLEWs.
+     * GAEZ and FAOSTAT resources in CSV format.
 
-*  'Data' folder corresponding to input and output data.
+     * 'Data' folder corresponding to input and output data.
 
 2. **Administrative Boundary Shapefiles**: Download shapefiles for administrative boundaries from GADM or any other sources. Place the file inside the 'Data/input' directory and rename it to "..._ adm0" where "..." represents the 3-letter ISO country code (e.g., "ZMB_adm0.shp" for Zambia).
 
