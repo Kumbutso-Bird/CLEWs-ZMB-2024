@@ -29,7 +29,7 @@ conda activate GeoCLEWs
 
 Please ensure all necessary files, such as .shx, .shp, etc., are included. For example, for Zambia, include files like ZMB_adm1.dbf, ZMB_adm1.cpg, ZMB_adm1.prj, ZMB_adm1.shp, ZMB_adm1.shx, etc.
 
-##Outputs
+## Outputs
 
 GeoCLEWs produces the following outputs:
 
