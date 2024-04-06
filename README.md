@@ -32,7 +32,7 @@ Please ensure all necessary files, such as .shx, .shp, etc., are included. For e
 
 GeoCLEWs produces the following outputs:
 
-+ Tabular results in CSV format compatible with clewsy for CLEWs modeling.
++ Tabular results in CSV format compatible with clews for CLEWs modeling using OSeMOSYS.
 + Interactive graphs for visualization and analysis.
 
 The units presented in the outputs are recalculated based on the CLEWs framework for consistency and comparability. The outputs provide insights into agro-climatic potential yield, crop water deficit, precipitation, crop evapotranspiration, and land cover, facilitating informed decision-making for sustainable development in Zambia.
