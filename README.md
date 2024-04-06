@@ -15,7 +15,7 @@ conda activate GeoCLEWs
 
 ## Download Files and Data
 
-1. **CLEWs-ZMB-2024 Folder**: Download the 'CLEWs-ZMB-2024' folder, which includes:
+1. **CLEWs-ZMB-2024 Folder**: Download the 'CLEWs-ZMB-2024' github project folder, which includes:
 
      * **GeoCLEWs_ZM.ipynb**: Jupyter Notebook code for running GeoCLEWs.
      * GAEZ and FAOSTAT resources in CSV format.
